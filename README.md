@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Thiago Daher 🇧🇷🇺🇸
+
+Son, Husband, Father, Catholic, Developer ‪#Microservices‬Architecture #Java #SQL #Angular #TypeScript... No exception, no restriction, no workaround!
+
+[]'s
 
 <!--
 **tdahers/tdahers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
